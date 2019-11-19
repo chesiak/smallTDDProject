@@ -1,0 +1,3 @@
+# smallTDDProject
+
+Testing, testing ...
